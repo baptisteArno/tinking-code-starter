@@ -1,0 +1,27 @@
+{
+  "name": "tinking-code-starter",
+  "version": "0.1.0",
+  "description": "A Node.js starter to directly run the generated code by Tinking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baptisteArno/tinking-code-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baptisteArno/tinking-code-starter/issues"
+  },
+  "homepage": "https://github.com/baptisteArno/tinking-code-starter#readme",
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "progress": "^2.0.3",
+    "prompts": "^2.4.0",
+    "puppeteer": "^7.0.1"
+  }
+}
