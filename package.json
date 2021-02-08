@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/baptisteArno/tinking-code-starter#readme",
   "dependencies": {
+    "playwright": "^1.8.0",
     "prettier": "^2.2.1",
     "progress": "^2.0.3",
     "prompts": "^2.4.0",
